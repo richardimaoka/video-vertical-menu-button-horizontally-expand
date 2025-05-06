@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import MenuContainer from "./components/MenuContainer/MenuContainer";
+import MenuContainer from "./components/menu/MenuContainer";
 
 export default function Page() {
   return (

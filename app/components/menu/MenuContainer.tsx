@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./MenuContainer.module.css";
-import MenuItem from "./MenuItem/MenuItem";
-import { IconType } from "./MenuItem/icons/iconTypes";
+import MenuItem from "./menu-item/MenuItem";
+import { IconType } from "./menu-item/icons/iconTypes";
 
 // Define menu items data
 const menuItems = [
