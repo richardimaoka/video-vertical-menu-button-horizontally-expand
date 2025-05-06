@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./MenuItem.module.css";
-import Icon from "../Icon/Icon";
+import Icon from "./icons/Icon";
 
 interface MenuItemProps {
   iconPaths: string[];
