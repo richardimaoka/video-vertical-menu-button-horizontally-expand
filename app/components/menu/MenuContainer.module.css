@@ -1,7 +1,6 @@
 .menuContainer {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  align-content: center;
   background-color: #333;
-  height: 100vh;
   padding: 20px 0;
 }

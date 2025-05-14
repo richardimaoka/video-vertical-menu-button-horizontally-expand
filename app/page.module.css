@@ -1,5 +1,5 @@
 .page {
-  min-height: 100vh;
+  height: 100vh;
   background-color: #ecf5ec;
   background-image: linear-gradient(to right, #dde5dd 1px, transparent 1px),
     linear-gradient(to bottom, #dde5dd 1px, transparent 1px);
